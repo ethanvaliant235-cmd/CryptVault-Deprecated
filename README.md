@@ -68,4 +68,4 @@ bc1qpamdenvjmzmjumz24s3hymcn77xu8gy9ur04ll
 ## LICENSE
 
 Copyright 2026 potatameister.
-Distributed under the Apache 2.0 License.
+Distributed under the Apache License 2.0.
